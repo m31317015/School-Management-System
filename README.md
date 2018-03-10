@@ -1,4 +1,4 @@
-# School-Management-System
+# School Management System
 A school management system for the school-based assessment.
 
 Current state: GUI-development
